@@ -35,8 +35,9 @@ The goal was to eliminate manual data entry errors and improve efficiency in bud
 - Financial datasets (synthetic/sample data used)
 
 ## Insight Chart showcase
-
----
+![financial-performance-expense-intelligence](ComparisonChart.png)
+![financial-performance-expense-intelligence](TrendChart.png)
+---![financial-performance-expense-intelligence](DistributionChart.png)
 
 ## ▶️ How to Run
 1. Clone the repository
